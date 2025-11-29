@@ -1,0 +1,6 @@
+CourseID,CourseName,Instructor,Credits,MaxCapacity,Department,EnrolledCount
+CS101,Intro to Programming,Dr. Smith,3,30,Computer Science,0
+CS201,Data Structures,Dr. Johnson,4,25,Computer Science,0
+CS301,Algorithms,Dr. Brown,4,20,Computer Science,0
+MATH201,Calculus II,Dr. Taylor,4,30,Mathematics,0
+PHYS101,Physics I,Dr. Wilson,4,30,Physics,0

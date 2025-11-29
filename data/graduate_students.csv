@@ -1,0 +1,2 @@
+ID,Name,Email,DateOfBirth,Major,Semester,GPA,Attendance,ThesisTitle,Advisor,ResearchArea,ThesisSubmitted
+GRAD001,Carol Williams,carol@university.edu,1998-03-10,Computer Science,7,3.85,95,Machine Learning in Healthcare,Dr. Sarah Anderson,Computer Science,false
